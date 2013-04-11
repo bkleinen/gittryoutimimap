@@ -3,7 +3,11 @@ eins
 zwei
 line from bk
 zweiheit
+<<<<<<< HEAD
 drei
 nochmal from bk
+=======
+drei asdsada
+>>>>>>> c99f274efa56304069bbe8855633109018bb79c3
 von bk
 still batman
