@@ -4,3 +4,6 @@ to get the repo:
 git clone git@github.com:bkleinen/gittryoutimimap.git
 
 git status
+
+git add .
+git commit -m "some message here"
