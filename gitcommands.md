@@ -18,3 +18,11 @@ get changes from github to local rep
     git pull origin master
 
 ....
+
+
+
+## branching
+
+     git checkout -b mynewb
+
+
