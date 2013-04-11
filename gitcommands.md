@@ -5,5 +5,16 @@ git clone git@github.com:bkleinen/gittryoutimimap.git
 
 git status
 
-git add .
-git commit -m "some message here"
+commit file to local repository
+
+    git add .
+    git commit -m "some message here"
+
+push file to github
+
+    git push origin master
+
+get changes from github to local rep
+    git pull origin master
+
+....
